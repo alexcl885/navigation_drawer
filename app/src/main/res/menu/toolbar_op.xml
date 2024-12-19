@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/FragmentA"
+        android:icon="@drawable/baseline_6_ft_apart_24"
+        android:title="Item"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/FragmentB"
+        android:icon="@drawable/baseline_add_ic_call_24"
+        android:title="Item"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/FragmentC"
+        android:icon="@drawable/baseline_3p_24"
+        android:title="Item"
+        app:showAsAction="ifRoom" />
+</menu>
